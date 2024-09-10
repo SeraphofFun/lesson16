@@ -1,0 +1,7 @@
+﻿  Lesson16.cpp
+C:\Users\ASUS\source\repos\Lesson16\Lesson16\Lesson16.cpp(105,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\ASUS\source\repos\Lesson16\Lesson16\Lesson16.cpp(113,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\ASUS\source\repos\Lesson16\Lesson16\Lesson16.cpp(121,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\ASUS\source\repos\Lesson16\Lesson16\Lesson16.cpp(129,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\ASUS\source\repos\Lesson16\Lesson16\Lesson16.cpp(5,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Lesson16.vcxproj -> C:\Users\ASUS\source\repos\Lesson16\x64\Debug\Lesson16.exe
